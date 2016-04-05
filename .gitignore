@@ -6,7 +6,10 @@ docs/docco.css
 !docs/index.html
 npm-debug.log
 vexflow
-
+bower_components
+*~
+*#
+*.idea
 #eclipse
 .project
 .settings/

@@ -1,0 +1,26 @@
+{
+    "name": "vexflow-musicxml",
+    "version": "1.2.27",
+    "description": "MusicXML plugin for VexFlow",
+    "license": "MIT",
+    "keywords": [
+        "music",
+        "notation",
+        "guitar",
+        "tablature"
+    ],
+    "homepage": "https://github.com/ringw/vexflow/",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/ringw/vexflow.git"
+    },
+    "bugs": {
+        "url": "https://github.com/ringw/vexflow/issues"
+    },
+    "main": "vexflow.musicxml.js",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components"
+    ]
+}

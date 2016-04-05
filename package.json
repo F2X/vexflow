@@ -1,6 +1,6 @@
 {
   "name": "vexflow-musicxml",
-  "version": "0.0.1",
+  "version": "1.2.27",
   "description": "MusicXML plugin for VexFlow",
   "main": "build.js",
   "directories": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mechanicalscribe/vexflow-musicxml.git"
+    "url": "https://github.com/ringw/vexflow.git"
   },
   "keywords": [
     "vexflow",
@@ -21,9 +21,9 @@
   "author": "Daniel Ringwalt, arr. Chris Wilson",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mechanicalscribe/vexflow-musicxml/issues"
+    "url": "https://github.com/ringw/vexflow/issues"
   },
-  "homepage": "https://github.com/mechanicalscribe/vexflow-musicxml",
+  "homepage": "https://github.com/ringw/vexflow",
   "dependencies": {
     "browserify": "^8.1.1",
     "minimist": "^1.1.0",
